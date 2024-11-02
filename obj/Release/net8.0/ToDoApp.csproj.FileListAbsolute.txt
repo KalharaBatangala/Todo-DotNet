@@ -139,3 +139,4 @@ D:\ASP.NET WebApplications\ToDoApp\ToDoApp\bin\Release\net8.0\Microsoft.Extensio
 D:\ASP.NET WebApplications\ToDoApp\ToDoApp\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
 D:\ASP.NET WebApplications\ToDoApp\ToDoApp\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\ASP.NET WebApplications\ToDoApp\ToDoApp\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\ASP.NET WebApplications\ToDoApp\ToDoApp\obj\Release\net8.0\ToDoApp.sourcelink.json

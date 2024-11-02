@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>D:\ASP.NET WebApplications\ToDoApp\ToDoApp\Properties\PublishProfiles\ToDoApp20241026102624 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>D:\ASP.NET WebApplications\ToDoApp\ToDoApp\Properties\PublishProfiles\ToDoApp20241029105117 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

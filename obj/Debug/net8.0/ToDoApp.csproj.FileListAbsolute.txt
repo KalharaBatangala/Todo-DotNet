@@ -139,3 +139,4 @@ D:\ASP.NET WebApplications\ToDoApp\ToDoApp\obj\Debug\net8.0\refint\ToDoApp.dll
 D:\ASP.NET WebApplications\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.pdb
 D:\ASP.NET WebApplications\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.genruntimeconfig.cache
 D:\ASP.NET WebApplications\ToDoApp\ToDoApp\obj\Debug\net8.0\ref\ToDoApp.dll
+D:\ASP.NET WebApplications\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.sourcelink.json
