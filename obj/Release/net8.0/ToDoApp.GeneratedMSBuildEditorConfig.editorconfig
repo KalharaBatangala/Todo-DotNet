@@ -50,6 +50,38 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/Pages/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xQYWdlc1xUb2RvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-3smbbn57o1
@@ -57,3 +89,11 @@ build_metadata.AdditionalFiles.CssScope = b-3smbbn57o1
 [D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-g2ykndn6l5
+
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-oag1ozr2ye
+
+[D:/ASP.NET WebApplications/ToDoApp/ToDoApp/Todo-DotNet/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby1Eb3ROZXRcQ29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-9f7uihomes
